@@ -1,0 +1,39 @@
+/*Colors and fonts*/
+body {
+	background: rgb(230, 230, 230);
+	color: rgb(50, 50, 50);
+	font-family: 'Roboto Slab', serif;
+	font-size: 17px;
+}
+h1, h2 {
+	font-family: 'Lora', serif;
+}
+h1 {
+	color: red;
+	font-size: 32 px;
+	font-weight: 700;
+}
+h2 {
+	color: rgb(100, 100, 100);
+	font-size:  24 px;
+	font-weight: lighter;
+	font-weight: 400;
+
+}
+a {
+	font-family: 'Roboto Slab', serif;
+	text-decoration: none;
+	color: red;
+}
+a: hover {
+	color: yellow;
+}
+div{
+	background: white;
+	border: 2px solid black;
+	margin: 10px;
+}
+
+
+
+
